@@ -1,0 +1,9 @@
+URxvt*scrollbar: false
+URxvt*foreground: Orange
+URxvt*background: Black
+URxvt*font: -xos4-terminus-medium-*-*-*-14-*-*-*-*-*-iso8859-15,xft:terminus:pixelsize:12
+URxvt*skipScroll: true
+URxvt*scrollBar: false
+URxvt*saveLines: 1000
+URxvt*urlLauncher: /usr/bin/chromium
+URxvt.matcher.button: 1
